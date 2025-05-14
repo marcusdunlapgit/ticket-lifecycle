@@ -144,8 +144,4 @@ Part 3 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 <h2>Technical Skill Pillar</h2>
 <p>Hands-on practice with osTicket helps reinforce core technical support skills including system navigation, documentation, ticket routing, and resolution procedures.</p>
 
-<p align="center">
-  <img src="https://i.imgur.com/DJmEXEB.png" height="70%" width="70%" alt="Ticketing Success"/>
-</p>
-
 <p><strong>🎉 Congratulations! You have completed the final part of the osTicket series. 🎉</strong></p>
